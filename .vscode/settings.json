@@ -3,5 +3,6 @@
   "editor.formatOnSave": true,
   "editor.tabSize": 4,
   "files.autoSave": "onFocusChange",
-  "python.analysis.typeCheckingMode": "off"
+  "python.analysis.typeCheckingMode": "off",
+  "chat.disableAIFeatures": false
 }
