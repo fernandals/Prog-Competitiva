@@ -1,5 +1,5 @@
-# PC-FIC 🧠💻
-Repositório base do curso FIC de Programação Competitiva.
+# Curso de Programação Competitiva 🧠💻
+Repositório base do curso de Programação Competitiva.
 
 Este repositório foi criado para ajudar na organização dos estudos, exercícios e soluções ao longo do curso, seguindo um padrão único para todos os alunos.
 
