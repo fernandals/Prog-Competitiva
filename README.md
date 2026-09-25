@@ -19,7 +19,7 @@ desafios/
 1. **Clone o projeto**
 
     ```bash
-    git clone https://github.com/fernandals/PC-FIC.git
+    git clone https://github.com/fernandals/Prog-Competitiva.git
     ```
 
 2. **Abra a pasta do projeto do VSCode**
