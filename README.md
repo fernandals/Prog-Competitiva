@@ -38,5 +38,6 @@ para atualizar os arquivos do repositório.
 
 As atividades de Python têm como objetivo praticar os conceitos apresentados durante as aulas e desenvolver a capacidade de resolver problemas utilizando programação.
 
+---
 
 ### Bons estudos! 🚀
