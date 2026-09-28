@@ -12,27 +12,59 @@ As atividades estão organizadas por temas e aulas:
 
 ## 💻 Como utilizar
 
-Você pode acessar os arquivos diretamente pelo GitHub ou abrir o repositório em um **GitHub Codespace** para resolver os exercícios em um ambiente de desenvolvimento online.
+Existem duas formas de utilizar este repositório.
 
-Para abrir um Codespace:
+### 🚀 Opção 1 — GitHub Codespaces
 
-1. Clique em **Code**.
-2. Acesse a aba **Codespaces**.
-3. Clique em **Create codespace on main**.
+O [GitHub Codespaces](https://github.com/features/codespaces) permite programar diretamente pelo navegador, sem precisar instalar Python ou configurar um ambiente de desenvolvimento no computador.
 
-Depois de criar o Codespace, você poderá editar e executar os arquivos diretamente pelo navegador.
+Para utilizar o Codespaces com os benefícios educacionais do GitHub:
+
+1. Crie uma conta no [GitHub](https://github.com/).
+2. Cadastre-se no [GitHub Education](https://education.github.com/) com seu email acadêmico.
+3. Aguarde a verificação da sua conta de estudante.
+4. Acesse este repositório.
+5. Clique em **Code → Codespaces → Create codespace on main**.
+
+O ambiente será configurado automaticamente com Python e as extensões necessárias.
+
+> **Importante:** o GitHub Education possui uma franquia mensal de uso do Codespaces. Verifique as condições atuais da sua conta no GitHub.
+
+### 💻 Opção 2 — Clonar o repositório
+
+Você também pode baixar uma cópia do repositório e executar os exercícios diretamente no seu computador.
+
+Primeiro, clone o repositório:
+
+```bash
+git clone https://github.com/fernandals/Prog-Competitiva.git
+```
+
+Depois, entre na pasta:
+
+```bash
+cd Prog-Competitiva
+```
+
+Para executar um arquivo Python:
+
+```bash
+python nome-do-arquivo.py
+```
+
+Para essa opção, você precisará ter o Python instalado no computador.
 
 ## 🔄 Atualizações
 
 Novas atividades serão adicionadas ao longo do curso.
 
-Se você já tiver um Codespace aberto quando uma nova atividade for adicionada, execute:
+Se você já tiver uma cópia do repositório no computador, atualize-a com:
 
 ```bash
 git pull
 ```
 
-para atualizar os arquivos do repositório.
+Se estiver utilizando um Codespace que já foi criado anteriormente, também será necessário executar esse comando para receber novas atividades.
 
 ## 🐍 Python
 
