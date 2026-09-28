@@ -1,47 +1,42 @@
-# Curso de Programação Competitiva 🧠💻
-Repositório base do curso de Programação Competitiva.
+# Curso de Introdução a Programação Competitiva 🧠💻
 
-Este repositório foi criado para ajudar na organização dos estudos, exercícios e soluções ao longo do curso, seguindo um padrão único para todos os alunos.
+Repositório com listas de exercícios, desafios e exemplos utilizados ao longo do curso.
 
----
+## 📚 Conteúdo
 
-## 📁 Estrutura do Repositório
+As atividades estão organizadas por temas e aulas:
+
+- [Listas de exercícios](./listas)
+- [Desafios](./desafios)
+- [Exemplos](./exemplos)
+
+## 💻 Como utilizar
+
+Você pode acessar os arquivos diretamente pelo GitHub ou abrir o repositório em um **GitHub Codespace** para resolver os exercícios em um ambiente de desenvolvimento online.
+
+Para abrir um Codespace:
+
+1. Clique em **Code**.
+2. Acesse a aba **Codespaces**.
+3. Clique em **Create codespace on main**.
+
+Depois de criar o Codespace, você poderá editar e executar os arquivos diretamente pelo navegador.
+
+## 🔄 Atualizações
+
+Novas atividades serão adicionadas ao longo do curso.
+
+Se você já tiver um Codespace aberto quando uma nova atividade for adicionada, execute:
 
 ```bash
-modulos/
-  modulo-01/
-  ...
-desafios/
+git pull
 ```
 
-## 🚀 Como começar
+para atualizar os arquivos do repositório.
 
-1. **Clone o projeto**
+## 🐍 Python
 
-    ```bash
-    git clone https://github.com/fernandals/Prog-Competitiva.git
-    ```
+As atividades de Python têm como objetivo praticar os conceitos apresentados durante as aulas e desenvolver a capacidade de resolver problemas utilizando programação.
 
-2. **Abra a pasta do projeto do VSCode**
-
-3. **Instalar extensões recomendadas**
-
-    Ao abrir o projeto, o VS Code irá sugerir extensões automaticamente. *Instale principalmente*:
-    - Python
-
-## 🧑‍💻 Como usar este repositório
-
-- Sempre organize seus códigos dentro do módulo correspondente
-- Nomeie arquivos de forma clara (ex: ex01_soma.py)
-- Tente resolver os exercícios antes de olhar as soluções
-- Use a pasta desafios/ para treinar problemas extras
-
-## 📌 Boas práticas
-- Escreva código limpo e organizado
-- Use nomes de variáveis descritivos
-- Evite copiar soluções sem entender
-- Pratique constantemente
-
----
 
 ### Bons estudos! 🚀
