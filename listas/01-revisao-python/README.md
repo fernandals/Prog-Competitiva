@@ -22,10 +22,6 @@ A lista está organizada em 11 tópicos:
 
 Ao todo, são **33 questões**.
 
-## 💻 Como resolver
-
-Abra o repositório em um **GitHub Codespace** para resolver os exercícios diretamente pelo navegador.
-
 ## ▶️ Executando os exercícios
 
 Para executar um programa Python no terminal:
